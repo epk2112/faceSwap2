@@ -2,3 +2,4 @@
 /myenv
 /testPython.py
 inswapper_128.onnx
+cuda-repo-ubuntu1710-9-2-local_9.2*
